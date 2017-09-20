@@ -11,6 +11,6 @@
     <Button
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:text="Hello World!"/>
-
+        android:text="@string/hello"
+        android:textColor="@color/colorPrimaryDark"/>
 </LinearLayout>
